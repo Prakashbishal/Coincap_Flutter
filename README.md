@@ -48,8 +48,9 @@ CoinCap is a mobile application built with Flutter that allows users to view rea
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](assets/icons/icon.png)
+![Screenshot 2](assets/screenshots/1716317427478.jpg)
+![Screenshot 3](assets/screenshots/1716317427481.jpg)
 
 ## Contributing
 
