@@ -47,7 +47,7 @@ CoinCap is a mobile application built with Flutter that allows users to view rea
 - Double-tap on a cryptocurrency to view detailed information including exchange rates and descriptions.
 
 ## Screenshots
-
+<img src="assets/icons/icon.png" alt="drawing" width="200"/>
 ![Screenshot 1](assets/icons/icon.png)
 ![Screenshot 2](assets/screenshots/1716317427478.jpg)
 ![Screenshot 3](assets/screenshots/1716317427481.jpg)
